@@ -1,12 +1,9 @@
 Man I love basketball
 
-<<<<<<< HEAD
 Jason does not play basketball.
-=======
 I like it a little bit :)
 
 
 
 
 When's Basketball time?
->>>>>>> 663ed5cfbea6810173669f4448270cd2ca01ed2d
